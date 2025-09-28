@@ -1,0 +1,5 @@
+pandas
+matplotlib
+reportlab
+xlsxwriter
+psycopg2-binary
